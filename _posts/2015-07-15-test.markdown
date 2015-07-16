@@ -1,6 +1,6 @@
 ---
 published: true
-title: Test
+title: test
 layout: post
 ---
 test
